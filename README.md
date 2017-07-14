@@ -9,7 +9,7 @@ Place the rchi parquet into the same directory as the notebooks. Then, run it th
 
 **If you _don't_ have the `rchi-moby` parquet:**
 
-You cannot run the dataFormatter (as you have no raw data to format!) but I've included preformatted data that is read by the [neuralCI](https://github.com/RobGeada/neuralCI/blob/master/neuralCI.ipynb) notebook. Therefore, you can simply run neuralCI.
+Since you have no raw data, you can't run the dataFormatter, but I've included sample formatted data that is read by the [neuralCI](https://github.com/RobGeada/neuralCI/blob/master/neuralCI.ipynb) notebook. Therefore, you can simply run neuralCI.
 
 Both of the notebooks are well documented enough that they should be self-explanatory!
 
