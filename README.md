@@ -7,7 +7,7 @@ In these two notebooks I outline the Word2Vec neural net model, and run it again
 
 Place the rchi parquet into the same directory as the notebooks. Then, run it through the [dataFormatter](https://github.com/RobGeada/neuralCI/blob/master/dataFormatter.ipynb) notebook followed the [neuralCI](https://github.com/RobGeada/neuralCI/blob/master/neuralCI.ipynb) notebook.
 
-**If you do not have the `rchi-moby` parquet:**
+**If you do _not_ have the `rchi-moby` parquet:**
 
 You cannot run the dataFormatter as you have no raw data to format, but I've included preformatted data that is read by the [neuralCI](https://github.com/RobGeada/neuralCI/blob/master/neuralCI.ipynb) notebook. Therefore, you can simply run neuralCI.
 
